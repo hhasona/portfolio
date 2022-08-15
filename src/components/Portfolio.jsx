@@ -13,7 +13,7 @@ const Portfolio = () => {
     {
       id: 2,
       src: PortfolioProject,
-      demo: "https://hassouna.github.io/portfolio/",
+      demo: "https://hassouna-portfolio.netlify.app/",
       github: "https://github.com/hhasona/portfolio",
     },
   ]
